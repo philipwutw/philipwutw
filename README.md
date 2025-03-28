@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, C Language**
 
-- 📫 How to reach me **iamphilip526@gmail.com**
+- 📫 Reach me at **iamphilip526@gmail.com**
 
 - ⚡ Fun fact **I think I am a kind-hearted person.**
 
