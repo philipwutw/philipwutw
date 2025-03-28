@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm PP</h1>
-
-
+<h1 align="Left">Hi 👋, I'm PP</h1>
 
 ### 👨🏻‍💻 About Me
 
