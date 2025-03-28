@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PP</h1>
-<h3 align="center">I am an engineer from Taiwan, enthusiastic about exploring new things.</h3>
+<h3 align="center">A software engineer from Taiwan, enthusiastic about exploring new things.</h3>
 
 - 🌱 I’m currently learning **Python, C Language**
 
