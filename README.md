@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PP</h1>
 <h3 align="center">A software engineer from Taiwan, enthusiastic about exploring new things.</h3>
 
-- 🌱 I’m trying to improve **Python, C Language** skill.
+- 🌱 I'm working on sharpening my professional skills.
 
 - 📫 Reach me at **iamphilip526@gmail.com**
 
