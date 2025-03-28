@@ -8,8 +8,6 @@
 
 🌱 I'm working on sharpening my professional skills.
 
-📫 Reach me at **iamphilip526@gmail.com**
-
 ⚡ Fun fact **I have the pleasure of living with three adorable cats.**
 
 ### 🛠 Tech Stack
